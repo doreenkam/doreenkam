@@ -2,7 +2,9 @@
 [![Header](https://i.ibb.co/s2X8Mds/Screenshot-2022-04-22-at-10-46-13.png "Header")](https://www.creative-tim.com/)
 
 ### Hi, I'm Doreen Kamushinda 👋🏾
+<p align="center">
 I'm a creative and enthusiastic individual who enjoys solving problems and helping other. ✨
+</p>
 
 #### Get To Know Me:
 - 👩🏾‍💻 I'm a Tech Trainee with @getfutureproof.
