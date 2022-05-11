@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/fvmnXVz/Screenshot-2022-05-11-at-18-36-18.png "Header")](#)
+
 
 ### Hi, I'm Doreen Kamushinda 👋🏾
 <p align="center">
