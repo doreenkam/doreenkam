@@ -1,9 +1,9 @@
 
 
 ### Hi, I'm Doreen Kamushinda 👋🏾
-<p align="center">
+
 I'm a creative and enthusiastic individual who enjoys solving problems and helping others. ✨
-</p>
+
 
 #### Get To Know Me:
 - 👩🏾‍💻 I'm a Tech Trainee with @getfutureproof.
