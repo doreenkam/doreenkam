@@ -1,5 +1,4 @@
-
-[![Header](https://i.ibb.co/s2X8Mds/Screenshot-2022-04-22-at-10-46-13.png "Header")](https://www.creative-tim.com/)
+[![Header](https://i.ibb.co/fvmnXVz/Screenshot-2022-05-11-at-18-36-18.png "Header")](#)
 
 ### Hi, I'm Doreen Kamushinda 👋🏾
 <p align="center">
@@ -18,9 +17,7 @@ I'm a creative and enthusiastic individual who enjoys solving problems and helpi
 - Docker
 - SQL
 - MongoDB
-
-
-![Doreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=doreenkam&show_icons=true&theme=dracula)
+- React
 
 <!--
 **doreenkam/doreenkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
